@@ -6,5 +6,5 @@
 	  };
 	}
 	
-	window.helloSpeaker = helloSpeaker
+	window.helloSpeaker = helloSpeaker;
 })(window);
